@@ -4,5 +4,6 @@ description = "Rubygems/Bundler lockfile parser"
 version = "0.1.0"
 repository = "https://github.com/caius/gemlock"
 edition = "2024"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
